@@ -1,4 +1,4 @@
-# 📚 Clone da Wikipédia
+# 📚 Clone do Wikipédia
 
 Este repositório apresenta um projeto de **clone simplificado da Wikipédia**, desenvolvido com foco educacional utilizando **HTML5** e **CSS3**. A ideia é reproduzir a estrutura visual e informativa da famosa enciclopédia online, com uma interface limpa, organizada e responsiva.
 
